@@ -1,1 +1,1 @@
-A collection of functions which transform strings of bits (of certain lengths) into Hamming code and decodes them again. Includes functions to find and correct a single (incorrectly) flipped bit in the Hamming code. See specification for more details.
+A collection of functions which transform strings of bits (of certain lengths) into Hamming code and decodes them again. Includes functions to find and correct a single (incorrectly) flipped bit in any Hamming message. See specification for more details.
