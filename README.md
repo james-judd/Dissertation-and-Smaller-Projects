@@ -1,1 +1,1 @@
-Repository of my smaller projects over the years!
+Repository of my Computational Physics dissertation and some smaller projects over the years!
